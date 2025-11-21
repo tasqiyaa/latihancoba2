@@ -10,7 +10,7 @@
 
     <p>
         <?php 
-            echo "Ini halaman sederhana untuk latihan Git. Silakan ubah isi teks ini, lalu lakukan commit dan push.";
+            echo "Ini halaman sederhana untuk latihan Git.";
         ?>
     </p>
 

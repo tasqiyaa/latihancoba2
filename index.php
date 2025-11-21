@@ -18,6 +18,7 @@
         <li>Intan Tasqiyatul Mudmainnah</li>
         <li>23.N1.0027</li>
         <li>Manajemen project</li>
+        <li>Sistem Informasi</li>
     </ul>
 
     <p>
